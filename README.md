@@ -1,5 +1,8 @@
 # Shūten
 
+![Shuten Douji from the game FATE/Grand Order](https://pm1.narvii.com/6530/d1a6dd04a63639ddcc3f1c0ed624a30300c73c40_hq.jpg)
+*Bonus points if you get the reference*
+
 ## Introduction
 Hello and thanks for your interest in Shūten!
 
